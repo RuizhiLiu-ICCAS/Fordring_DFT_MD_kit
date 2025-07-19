@@ -1,4 +1,4 @@
-# Fordring_DFTkit
+# Fordring_DFT_MD_kit
 Some programes for automation VASP calculation or data analysis.
 
 # AIMDkit.py
