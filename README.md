@@ -1,6 +1,7 @@
 # Fordring_DFT_MD_kit
 Some programes for automation VASP calculation or data analysis.  
 下载解压后放置在对应文件夹中即可使用  
+使用前请阅读使用许可-程序包用户协议  
 
 # AIMDkit.py
 Created by Rui-Zhi Liu_ICCAS  
