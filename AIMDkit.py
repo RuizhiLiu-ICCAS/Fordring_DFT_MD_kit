@@ -72,7 +72,7 @@ if __name__=="__main__":
     parser = argparse.ArgumentParser(description='This script provides different methods for molecular dynamics simulations analysis.', formatter_class=argparse.RawTextHelpFormatter)
     
     parser.add_argument('-Energycal', action='store_true', help='''Run energy calculation. Extracts energy data from OSZICAR file and writes the results into totalE.txt.
-python AIMD.py -Energycal
+python AIMDkit.py -Energycal
 -----------------------''')
 
     parser.add_argument('-RDF', action='store_true', help='''Run RDF calculation.
