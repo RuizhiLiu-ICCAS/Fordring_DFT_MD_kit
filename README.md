@@ -36,7 +36,7 @@ This script provides different methods for molecular dynamics simulations analys
 options:  
   -h, --help            show this help message and exit  
   -Energycal            Run energy calculation. Extracts energy data from OSZICAR file and writes the results into totalE.txt.  
-                        python AIMD.py -Energycal  
+                        python AIMDkit.py -Energycal  
                         -----------------------  
   -RDF                  Run RDF calculation.  
                         For the RDF calculation you have to define additional parameters (see below):  
