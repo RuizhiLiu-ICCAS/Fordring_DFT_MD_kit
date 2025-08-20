@@ -67,3 +67,7 @@ Version 1.0-2025.7.19
 
 此程序需放置于POSCAR同一文件夹下，并需要手动修改POTCAR数据库的路径  
 
+# mergeXDAT.sh
+可以将两个分子动力学生成的XDATCAR合并为一个  
+
+此程序需将两个XDATCAR放置于同一文件夹  
