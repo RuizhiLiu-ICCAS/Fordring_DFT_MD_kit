@@ -71,3 +71,10 @@ Version 1.0-2025.7.19
 可以将两个分子动力学生成的XDATCAR合并为一个  
 
 此程序需将两个XDATCAR放置于同一文件夹  
+
+# MDConv.sh
+运行这个脚本给出图片显示MD的温度、能量、压强、体积的收敛情况，数据保存于MDConv.txt，并利用python3画出收敛图  
+
+需要以下python库：  
+import matplotlib.pyplot as plt  
+import pandas as pd  
